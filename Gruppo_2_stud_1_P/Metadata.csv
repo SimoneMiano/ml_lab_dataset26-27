@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPad Air 11-inch (M3),1794213699810,2026-11-09_08-41-39,Europe/Rome,ios,1.68.1,4cea7aef-b425-4b05-87a8-7fb69759f7cc,Accelerometer|Gyroscope|Orientation|Compass|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10||10|10,false,18.7.8

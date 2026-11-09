@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 16 Pro,1794213001552,2026-11-09_08-30-01,Europe/Rome,ios,1.68.1,8846d3b3-0469-47ce-b9ac-89865c2e57be,Accelerometer|Gyroscope|Orientation|Magnetometer|bluetooth-0e8224af-4ece-6158-adea-e4917139b7a4|Annotation|BluetoothMetadata|MagnetometerUncalibrated|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10|||0|10|10|10,false,27.0.1
